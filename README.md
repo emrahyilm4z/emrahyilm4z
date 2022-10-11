@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://emrahyllmz.files.wordpress.com/2022/09/ezgif-4-21ab6417bb.gif?w=500" align="center" style="width: 100%" />
-</div>  
-  <br/>  
-<br/>  
-<br/>  
-<br/>
+</div>  <br/>  <br/>  <br/>  <br/>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/emrahyilm4z/emrahyilm4z/blob/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
 <a href="https://instagram.com/emrahyilm4z/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
