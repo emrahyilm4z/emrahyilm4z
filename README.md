@@ -1,6 +1,5 @@
 
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35" /> I'm Emrah</h1>
-
+<h1 align="center"> Hey 👋 I'm Emrah</h1>
 <div align="center">
 <img src="https://emrahyllmz.files.wordpress.com/2022/09/ezgif-4-21ab6417bb.gif?w=500" align="center" style="width: 100%" />
 </div>  <br/> 
