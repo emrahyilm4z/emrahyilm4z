@@ -21,8 +21,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"  width="52" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
@@ -35,7 +35,7 @@
 </div> <br>
 <br clear="both">
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emrahyilm4z.emrahyilm4z&left_color=dimgray&right_color=darkgray&left_text=👀"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emrahyilm4z.emrahyilm4z&left_color=dimgray&right_color=darkgray&left_text=visitors"  />
 </div>
 
 ###
