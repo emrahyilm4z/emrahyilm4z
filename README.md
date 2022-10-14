@@ -6,7 +6,7 @@
 <details align="center">   
 <summary>About me</summary><br>
 <h2 align="left">I am currently interested in OOP.</h2>
-<p align="left">✨ I have an interest in software since 2018<br>📚 I am improving my English now and trying to learn new things.<br>🎯 Goals: Always write more code and speak good English 🚀<br>🎲 And ... i play 🏓 table tennis and ♟ chess online</p> <br>
+<p align="left">✨ I have an interest in software since 2018<br>📚 I am improving my English now and trying to learn new things.<br>🎯 Goals: Always write more code.. 🚀<br>🎲 And ... i play 🏓 table tennis and ♟ chess online</p> <br>
 
 <h2 align="left">I code with</h2>
 <div align="left">
