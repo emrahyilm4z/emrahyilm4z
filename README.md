@@ -1,13 +1,12 @@
 
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35" /> I'm Emrah</h1>
-
+<h1 align="center"> Hey 👋 I'm Emrah</h1>
 <div align="center">
 <img src="https://emrahyllmz.files.wordpress.com/2022/09/ezgif-4-21ab6417bb.gif?w=500" align="center" style="width: 100%" />
 </div>  <br/> 
 <details align="center">   
 <summary>About me</summary><br>
 <h2 align="left">I am currently interested in OOP.</h2>
-<p align="left">✨ I have an interest in software since 2018<br>📚 I am improving my English now and trying to learn new things.<br>🎯 Goals: Always write more code and speak good English 🚀<br>🎲 And ... i play 🏓 table tennis and ♟ chess online</p> <br>
+<p align="left">✨ I have an interest in software since 2018<br>📚 I am improving my English now and trying to learn new things.<br>🎯 Goals: Always write more code.. 🚀<br>🎲 And ... i play 🏓 table tennis and ♟ chess online</p> <br>
 
 <h2 align="left">I code with</h2>
 <div align="left">
@@ -16,6 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
 ###
