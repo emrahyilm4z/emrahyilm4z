@@ -3,8 +3,7 @@
 <div align="center">
 <img src="https://emrahyllmz.files.wordpress.com/2022/09/ezgif-4-21ab6417bb.gif?w=500" align="center" style="width: 100%" />
 </div>  <br/> 
-<details align="center">   
-<summary>About me</summary><br>
+<hr>
 <h2 align="left">I am currently interested in OOP.</h2>
 <p align="left">✨ I have an interest in software since 2018<br>📚 I am improving my English now and trying to learn new things.<br>🎯 Goals: Always write more code.. 🚀<br>🎲 And ... i play 🏓 table tennis and ♟ chess online</p> <br>
 
@@ -58,6 +57,5 @@
   </a>
 </div>
 
-</details>
 
   
